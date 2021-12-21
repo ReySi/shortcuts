@@ -3,6 +3,8 @@ site_url: https://ReySi.github.io
 site_author: Simon Rey
 site_description: A collection of the my most important shortcuts
 
+remote_branch: gh-pages
+
 nav:
   - About: index.md
 theme:
