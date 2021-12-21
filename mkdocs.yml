@@ -7,6 +7,7 @@ remote_branch: gh-pages
 
 nav:
   - About: index.md
+  - VsCode: vscode.md
 theme:
   name: readthedocs
   highlightjs: true
