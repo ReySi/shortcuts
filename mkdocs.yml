@@ -1,0 +1,12 @@
+site_name: Shortcuts
+site_url: https://ReySi.github.io
+site_author: Simon Rey
+site_description: A collection of the my most important shortcuts
+
+nav:
+  - About: index.md
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
